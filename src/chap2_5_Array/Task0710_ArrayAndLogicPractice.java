@@ -6,39 +6,44 @@ public class Task0710_ArrayAndLogicPractice {
 
 	public static void main(String[] args) {
 		//1.
-//		int [] nums = {12,15,27,44,66,88};
-//		findMaxOrMinValue(nums);
+		int [] nums1 = {12,15,27,44,66,88};
+		findMaxOrMinValue(nums1);
+		System.out.println("-----------------------");
 		//2.
-//		findInteger();
+		findInteger();
+		System.out.println("-----------------------");
 		//3.
-//		int []nums = {7, 2, 11, 15};
-//		Scanner input = new Scanner(System.in);
-//		int num = 0;//存储目标数
-//		System.out.println("输入目标数：");
-//		//接受用户输入之前要先判断输入类型，防止出错
-//		if (input.hasNextInt()) {
-//			num = input.nextInt();
-//			System.out.println("你输入的目标数是：" + num);
-//		} else {
-//			System.out.println("输入有误，请输入整数！");
-//		}
-//		twoSum(nums, num);
+		int []nums2 = {7, 2, 11, 15};
+		Scanner input = new Scanner(System.in);
+		int num = 0;//存储目标数
+		System.out.println("输入目标数：");
+		//接受用户输入之前要先判断输入类型，防止出错
+		if (input.hasNextInt()) {
+			num = input.nextInt();
+			System.out.println("你输入的目标数是：" + num);
+		} else {
+			System.out.println("输入有误，请输入整数！");
+		}
+		twoSum(nums2, num);
+		System.out.println("-----------------------");
 		//4.
-//		int [] nums4 = {1, 3, 9, 6, 7, 15, 4, 8};
-//		System.out.println("请输入要查找的目标数：");
-//		Scanner myinput = new Scanner(System.in);
-//		int mynum = 0;//存储目标数
-//		// 接受用户输入之前要先判断输入类型，防止出错
-//		if (myinput.hasNextInt()) {
-//			mynum = myinput.nextInt();
-//			System.out.println("你输入的目标数是：" + mynum);
-//		} else {
-//			System.out.println("输入有误，请输入整数！");
-//		}
-//		sortAndSearch(nums4, mynum);
+		int [] nums4 = {1, 3, 9, 6, 7, 15, 4, 8};
+		System.out.println("请输入要查找的目标数：");
+		Scanner myinput = new Scanner(System.in);
+		int mynum = 0;//存储目标数
+		// 接受用户输入之前要先判断输入类型，防止出错
+		if (myinput.hasNextInt()) {
+			mynum = myinput.nextInt();
+			System.out.println("你输入的目标数是：" + mynum);
+		} else {
+			System.out.println("输入有误，请输入整数！");
+		}
+		sortAndSearch(nums4, mynum);
+		System.out.println("-----------------------");
 		//5.
 		int [] nums5 = {0,1,0,3,12};
 		moveZero(nums5);
+		System.out.println("-----------------------");
 		
 	}
 	/**
@@ -258,7 +263,10 @@ public class Task0710_ArrayAndLogicPractice {
 	 * 给定一个数组 nums， 编写一个函数将所有 0 移动到数组的末尾， 同时保持非零元素的相对顺序。
 	 * 		示例:
 	 * 		输入: [0,1,0,3,12] 
-	 * 		输出: [1,3,12,0,0]
+	 * 		输出: [1,3,12,0,0] 
+	 * 			1前1个0，从1位置->0位置，(-1) 
+	 * 			3前共2个0，从3->1,(-2)
+	 * 			12前2个0，从4->2,(-2)
 	 */
 	public static void moveZero(int [] nums) {
 		System.out.println("输入数组：");

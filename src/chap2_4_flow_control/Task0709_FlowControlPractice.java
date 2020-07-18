@@ -39,19 +39,19 @@ public class Task0709_FlowControlPractice {
 	 *
 	 */
 	public static void countPrice(double sum, int point) {
-		if(point<=2000) {
+		if(point<2000) {
 			sum *= 0.9;
 			System.out.println("您可以打九折，购物金额折后价格为："+sum);
 		}
-		else if(point>2000 && point <= 4000) {
+		else if(point>=2000 && point < 4000) {
 			sum *= 0.8;
 			System.out.println("您可以打八折，购物金额折后价格为："+sum);
 		}
-		else if(point>4000 && point <= 8000) {
+		else if(point>=4000 && point < 8000) {
 			sum *= 0.75;
 			System.out.println("您可以打七五折，购物金额折后价格为："+sum);
 		}
-		else if(point>8000) {
+		else if(point>=8000) {
 			sum *= 0.7;
 			System.out.println("您可以打七折，购物金额折后价格为："+sum);
 		}
@@ -108,10 +108,10 @@ public class Task0709_FlowControlPractice {
 		    	break;
 		    case 2:
 		    	if(year%4==0&&year%100!=0||year%400==0) {
-		    		System.out.println("本月有28天");
+		    		System.out.println("本月有29天");
 		    	}
 		    	else
-		    		System.out.println("本月有29天");
+		    		System.out.println("本月有28天");
 		    	break;
 			}
 			System.out.println("是否继续？(是|否)");

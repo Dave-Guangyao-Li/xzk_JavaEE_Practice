@@ -34,11 +34,12 @@ public class Task0710_PickLeaderGame {
 			}
 		}
 		for (int i = 0; i < total; i++) {
-			System.out.println(people[i] + " ");
+			System.out.print(people[i] + " ");
 			if (people[i] != 0) {
 				leader = people[i];//队长为最后剩下的不为0的
 			}
 		}
+		System.out.println();
 		System.out.println("留下来当选的人为原来的" + leader + "号");
 
 	}
