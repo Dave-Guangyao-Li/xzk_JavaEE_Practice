@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2336dcd-e072-48b6-906e-342936052dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/deliveryManagement/bean/Express.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/deliveryManagement/dao/ExpressDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/deliveryManagement/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/deliveryManagement/readMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/deliveryManagement/view/Views.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xzk_JavaEE_Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_2_build_environment/AutoShutdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_2_build_environment/AutoShutdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_2_build_environment/CancelShutdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_2_build_environment/CancelShutdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_2_build_environment/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/CreateVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/CreateVariable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/EscapeCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/EscapeCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/MethodUsage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/MethodUsage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/Operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/PracticeDay1_0708.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/PracticeDay1_0708.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/SwitchValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/SwitchValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/TypeConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/TypeConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/VariableScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_3_basic_syntax/VariableScope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/NestedLoopGraphicPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/NestedLoopGraphicPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/QuitNestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/QuitNestedLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/TakeUserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/TakeUserInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_FlowControlPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_FlowControlPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_TaxiPricing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_TaxiPricing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_TrainingAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_4_flow_control/Task0709_TrainingAI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_4_flow_control/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/ArrayBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/ArrayBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/FindMaxOrMinValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/FindMaxOrMinValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/Task0710_ArrayAndLogicPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/Task0710_ArrayAndLogicPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/Task0710_PickLeaderGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_5_Array/Task0710_PickLeaderGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_5_Array/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_6_IntegratedProject/BallLottery.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_6_IntegratedProject/BallLottery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_6_IntegratedProject/Gobang.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap2_6_IntegratedProject/Gobang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap2_6_IntegratedProject/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Task0713_Object_Oriented_Basics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/Task0713_Object_Oriented_Basics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectBrientedBasic/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/ObjectOrientedAdvancedTask07150716.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/ObjectOrientedAdvancedTask07150716.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/fingerGuessingGame/FingerGuessingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/fingerGuessingGame/FingerGuessingGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/fingerGuessingGame/GamePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/fingerGuessingGame/GamePlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/fingerGuessingGame/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedAdvanced/package-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/Clothe.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/Clothe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/KaikebaLearner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/KaikebaLearner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/ObjectOrientedHigherTask0714_.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/ObjectOrientedHigherTask0714_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/chap3/objectOrientedHigher/package-info.class" beforeDir="false" />
-    </list>
+    <list default="true" id="c2336dcd-e072-48b6-906e-342936052dc0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/readMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="201">
+              <first_editor relative-caret-position="292">
                 <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
               </first_editor>
               <second_editor />
@@ -151,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            <state relative-caret-position="987">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -416,18 +358,17 @@
       <workItem from="1595062683546" duration="1975000" />
       <workItem from="1595072541665" duration="635000" />
       <workItem from="1595073331170" duration="33000" />
-      <workItem from="1595073395198" duration="23190000" />
+      <workItem from="1595073395198" duration="23766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25833000" />
+    <option name="totallyTimeSpent" value="26409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -437,7 +378,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3201133" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -522,6 +463,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/dao/ExpressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1597">
+          <caret line="155" column="23" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3570#3571#0" expanded="true" />
+            <element signature="e#3596#3597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/bean/Express.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1069">
@@ -545,28 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="201">
-            <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/dao/ExpressDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1597">
-          <caret line="155" column="23" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3570#3571#0" expanded="true" />
-            <element signature="e#3596#3597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/view/Views.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4116">
@@ -583,13 +524,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/chap3/deliveryManagement/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="292">
+            <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
